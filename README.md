@@ -14,7 +14,7 @@ Project A Design
 
 ![project A](https://user-images.githubusercontent.com/78877077/117552408-b3f3d980-b010-11eb-925c-dcc82689c432.PNG)\
 
-![image](https://user-images.githubusercontent.com/78877077/117552473-249af600-b011-11eb-8237-d523df0564cd.png)
+![image](https://user-images.githubusercontent.com/78877077/117552484-354b6c00-b011-11eb-959c-091277006468.png)
 
 
 
