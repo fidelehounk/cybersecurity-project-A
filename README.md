@@ -49,5 +49,6 @@ FTP user credentials: Username: jasper Password: 2hard2guess
 
 Project A Design 
 
-![project A](https://user-images.githubusercontent.com/78877077/117551182-11385c80-b00a-11eb-89d4-dff7f5db5ffa.jpg)
+![project A](https://user-images.githubusercontent.com/78877077/117552408-b3f3d980-b010-11eb-925c-dcc82689c432.PNG)
+
 
