@@ -1,5 +1,7 @@
 Project A – OS and Networking
+
 Scenario
+
 You have been hired by an IT company as an IT subject matter expert. Management has a client who
 wants to upgrade their IT systems, but the client has a limited budget and no more physical space to
 install new equipment. You suggest implementing virtual machines instead of more hardware to help
@@ -30,37 +32,7 @@ ports on each server.
 10. Verify through that the trusted network is protected from the untrusted network.
 11. Use Wireshark on Kali Linux to capture an FTP file transfer between the CEO PC and the web
 server.
-Deliverables
-To successfully complete this project, you must perform the following:
-1. Complete all project tasks.
-2. Answer the 10 exam questions in written form and submit to your coach.
-3. Provide an executive presentation to your coach via Zoom. The presentation will be done using
-PowerPoint (or similar product), followed by a live demonstration of your working network. The
-PowerPoint presentation must have a design of your choice and have at least 7 slides to include:
-a. Executive Summary at beginning
-b. Description of what you created
-c. Problems identified and their resolution
-d. Recommendations and closing remarks at the end
-Project Grading
-The project is worth 100 points. A passing grade is 70 or more points. Points are distributed as follows:
- Creation of network and demonstration of OS knowledge – 30 pts
- Written answers – 20 pts
- Presentation development – 20 pts
- Complete all tasks – 20 pts
- Presentation execution – 10 pts
-Exam Questions
-1. What style or type of DMZ is being deployed?
-2. Describe any problems you discovered on the CEO PC and how you resolved them.
-3. List the OS version and IP configuration (IP address, prefix, default gateway, and DNS server) of
-the CEO PC.
-4. List the OS version and IP configuration of the Web Server.
-5. List the OS version and IP configuration of the DNS Server.
-6. List the open ports and protocols found on the Web Server.
-7. List the open ports and protocols found on the DNS Server.
-8. What is the purpose of a security baseline for a server?
-9. What are the contents of the file you transferred with FTP to the CEO computer?
-10. What username and password were shown by Wireshark for the FTP session between the CEO
-computer and Web Server?
+
 Project Accounts
 System Username Password
 Router-FW admin pfsense
@@ -74,10 +46,8 @@ root
 $eclab!2
 $eclab!3
 FTP user credentials: Username: jasper Password: 2hard2guess
-Project Files
-Download the required VMs here:
-https://s3.amazonaws.com/media.quickstart.com/Bootcamp/Infosec/ProjectA.zip
-Download VirtualBox here:
-https://www.virtualbox.org/wiki/Downloads
-Download Kali Linux here:
-https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download
+
+Project A Design 
+
+![project A](https://user-images.githubusercontent.com/78877077/117551182-11385c80-b00a-11eb-89d4-dff7f5db5ffa.jpg)
+
